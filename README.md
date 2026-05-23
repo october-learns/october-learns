@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a working mum who likes learning by making stuffs . 
+
+I'm currently working on [Obsidian](https://obsidian.md/) plugins!
+
+Latest project : [Collapsible Notes](https://github.com/october-learns/collapsible-notes)
+
 <!--
 **october-learns/october-learns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
