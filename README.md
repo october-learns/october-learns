@@ -4,7 +4,7 @@ I am a working mum who likes learning by making stuffs .
 
 I'm currently working on [Obsidian](https://obsidian.md/) plugins!
 
-Latest project : [Nested Notes](https://github.com/october-learns/nested-notes)
+Latest project : [Nested Notes](https://github.com/october-learns/nested-notes) , [Simple Plugin Organizer](https://github.com/october-learns/obsidian-plugin-organizer)
 
 <!--
 **october-learns/october-learns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
